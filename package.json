@@ -1,0 +1,23 @@
+{
+  "name": "theportfolio",
+  "version": "1.0.0",
+  "description": "My personal portfolio for all to see!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CheddarChzKeys/thePortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CheddarChzKeys/thePortfolio/issues"
+  },
+  "homepage": "https://github.com/CheddarChzKeys/thePortfolio#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
